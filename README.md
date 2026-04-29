@@ -1,7 +1,7 @@
 <h2>PROJECT UTS</h2>
 <p>Salwa Ayudia Putri - 2488010042</p>
 <h3>Video Penjelasan Website</h3>
-<a href="https://youtu.be/eBRJEv1q6aA?si=jYlvYDRRhB8ihZr4">Link</a>
+<a href="https://youtu.be/eBRJEv1q6aA?si=jYlvYDRRhB8ihZr4">Link Youtube</a>
 <br>
 
 <h3>Tampilan Halaman Utama (User)</h3>
